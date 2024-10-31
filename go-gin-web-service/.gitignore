@@ -1,0 +1,5 @@
+# Go-specific files
+*.log                    # Log files
+*.env                    # Environment variable files (if any)
+*.tmp                    # Temporary files
+/vendor/                 # Vendor directory, if using Go modules (optional)
